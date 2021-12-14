@@ -21,7 +21,6 @@ User may click on the help button for rules during game play or restart the game
 Install memory-game with npm
 
 ```bash
-  cd memory-game
   npm install
   npm start
 ```
